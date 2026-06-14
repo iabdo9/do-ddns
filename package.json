@@ -1,0 +1,14 @@
+{
+  "name": "do-ddns",
+  "version": "1.0.0",
+  "description": "Dynamic DNS service that keeps DigitalOcean A records pointed at your current public IP",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20.12.0"
+  },
+  "license": "MIT"
+}
